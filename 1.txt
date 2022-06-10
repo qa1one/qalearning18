@@ -1,1 +1,2 @@
 Adding the first line 1
+Adding the second line 2
